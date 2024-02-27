@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+# Next.js Dashboard Page
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a responsive and interactive dashboard built with Next.js and hosted on Vercel. It's designed to provide users with a seamless experience to view and interact with their data.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Features
+
+- **Interactive Data Visualization:** Charts and graphs that update in real-time.
+- **Responsive Design:** Ensures a great experience on both desktop and mobile devices.
+- **SSR and SSG Support:** Utilizes Next.js's capabilities for server-side rendering and static site generation for faster load times and SEO benefits.
+- **User Authentication:** Secure login mechanism to protect access to user data.
